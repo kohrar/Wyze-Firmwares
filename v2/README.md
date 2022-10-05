@@ -1,4 +1,13 @@
 # Wyze Cam v2 Firmware
+
+## 4.28.4.49 - RTSP Beta
+* Beta firmware with RTSP support
+
+## v2 Webcam
+* Webcam firmware
+* The webcam video, speaker, and mic all function properly.
+* Mic audio may be low. We suggest you set your audio level to medium, or use your own microphone and speaker.
+
 ## 4.9.9.1433 (September 27, 2022)
 * Improved Internet connection code
 * Improved live stream connectivity
@@ -8,6 +17,7 @@
 * Security improvements
 * Due to the security improvement on this firmware, you will need to go through the setup process for your camera if you go back to firmware 4.9.8.1002 or below. Because of this, we are removing those firmware files from this page.
 Note: We are doing a gradual release for this firmware over several weeks. If you do not have this firmware version yet, don't worry! You'll receive it later.
+
 ## 4.9.8.1002 (March 17, 2022)
 * Security improvements
 * AI Event bug fixes
