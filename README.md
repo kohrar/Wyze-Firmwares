@@ -2,7 +2,7 @@
 > Includes older firmware files that are no longer downloadable from Wyze Labs
 ---
 
-This repo contains old firmware files for:
+This repo contains firmware files for:
 * Wyze Cam v1
 * Wyze Cam v2
 * Wyze Cam v3
@@ -10,6 +10,8 @@ This repo contains old firmware files for:
 * Wyze Cam Outdoor v2
 * Wyze Cam Pan v1
 * Wyze Cam Pan v2
+
+You may review the offical release notes at: https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware
 
 ## Flashing firmware
 1. Insert the microSD card into your computer.
