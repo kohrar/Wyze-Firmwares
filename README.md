@@ -3,13 +3,13 @@
 ---
 
 This repo contains firmware files for:
-* Wyze Cam v1
-* Wyze Cam v2
-* Wyze Cam v3
-* Wyze Cam Outdoor v1
-* Wyze Cam Outdoor v2
-* Wyze Cam Pan v1
-* Wyze Cam Pan v2
+* Wyze Cam v1 - [Latest](https://github.com/kohrar/Wyze-Firmwares/raw/master/v1/latest.bin.zip)
+* Wyze Cam v2 - [Latest](https://github.com/kohrar/Wyze-Firmwares/raw/master/v2/latest.bin.zip) / [RTSP Beta](https://github.com/kohrar/Wyze-Firmwares/raw/master/v2/latest-rtsp.bin.zip)
+* Wyze Cam v3 - [Latest](https://github.com/kohrar/Wyze-Firmwares/raw/master/v3/latest.zip) / [RTSP Beta](https://github.com/kohrar/Wyze-Firmwares/raw/master/v3/latest-rtsp.zip)
+* Wyze Cam Outdoor v1 - [Latest](https://github.com/kohrar/Wyze-Firmwares/raw/master/vco/latest.zip)
+* Wyze Cam Outdoor v2 - [Latest](https://github.com/kohrar/Wyze-Firmwares/raw/master/vcov2/latest.zip)
+* Wyze Cam Pan v1 - [Latest](https://github.com/kohrar/Wyze-Firmwares/raw/master/pan/latest.bin.zip) / [RTSP Beta](https://github.com/kohrar/Wyze-Firmwares/raw/master/pan/latest-rtsp.zip)
+* Wyze Cam Pan v2 - [Latest](https://github.com/kohrar/Wyze-Firmwares/raw/master/panV2/latest.zip)
 
 You may review the offical release notes at: https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware
 
