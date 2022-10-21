@@ -1,5 +1,15 @@
 # Wyze Cam v3 Firmware
-## 4.36.9.139 (May 18, 2022)
+## 4.36.10.2700 (October 18, 2022)
+* Improved Internet connection code
+* Improved live stream connectivity
+* Improved IoT connectivity
+* Fixed an issue that prevented the device from reconnecting after a router reboot
+* Fixed an issue that caused devices to stop working after a firmware update
+* Bug fixes
+* Security improvements
+* **Due to the security improvement on this firmware, you will need to go through the factory reset process for your camera if you go back to firmware 4.36.9.139 or below**
+## 4.36.9.139 (May 18, 2022) 
+* ** Latest supported by wz_mini_hacks **
 * Added support for garage door controller trigger duration settings
 ## 4.36.9.131 (April 25, 2022)
 * Improved logs for accessory product firmware update failure
