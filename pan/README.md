@@ -4,6 +4,13 @@
 * Mic audio may be low. We suggest you set your audio level to medium, or use your own microphone and speaker.
 ## 4.29.4.41
 * RTSP beta
+## 4.10.9.1574 (December 7, 2022)
+* Fixed a bug that affected camera connection on Wi-Fi with a long password
+* Fixed a bug that prevented AI detection settings from syncing
+## 4.10.9.1472 (November 2, 2022)
+* Fixed a bug that affected camera IoT connection after a cloud outage
+* Fixed a bug that caused incorrect membership status after switching between statuses
+* Fixed a bug that caused Error 3001 when viewing motion and sound Events
 ## 4.10.9.1433 (September 27, 2022)
 * Improved Internet connection code
 * Improved live stream connectivity
