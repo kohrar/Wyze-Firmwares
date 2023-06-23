@@ -6,8 +6,11 @@
 * RTSP beta
 
 ## 4.10.9.1851 (February 2, 2023)
-Improved the Event Video upload success rate
-Fixed a bug that affected camera connection recovery after a cloud outag
+* Improved the Event Video upload success rate
+* Fixed a bug that affected camera connection recovery after a cloud outage
+
+Note: Possible issues with firmware bricking the Cam Pan v1: https://forums.wyze.com/t/wyze-cam-pan-won-t-factory-reset/253005/28
+
 ## 4.10.9.1574 (December 7, 2022)
 * Fixed a bug that affected camera connection on Wi-Fi with a long password
 * Fixed a bug that prevented AI detection settings from syncing

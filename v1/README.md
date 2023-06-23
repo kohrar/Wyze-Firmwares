@@ -2,7 +2,10 @@
 ## 3.9.4.35 (August 17, 2022)
 * Fixed a bug that could prevent the camera from reconnecting
 * This firmware is difficult for the camera to apply due to its size. If your device has a solid yellow light or cannot connect after the update, please try flashing the firmware using a microSD card to recover it
-* Note: While this product isn't officially supported and we aren't able to fit more features and bug fixes onto the hardware, we’ve created firmware update 3.9.4.35 to fix this cloud connection problem.
+Note: While this product isn't officially supported and we aren't able to fit more features and bug fixes onto the hardware, we’ve created firmware update 3.9.4.35 to fix this cloud connection problem.
+
+For more information, see this Reddit thread about updating: https://old.reddit.com/r/Wyze/comments/wzxgue/wyze_cam_1s_recovered_3_of_4_with_the_new/
+
 ## 3.9.4.32 (January 21, 2020)
 * Improvements for syncing video and audio
 * Other bug fixes 
