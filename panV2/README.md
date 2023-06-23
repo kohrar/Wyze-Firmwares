@@ -1,4 +1,13 @@
 # Wyze Cam Pan v2 Firmware
+## 4.49.3.4054 (March 22, 2023)
+* Improved Event Video recording stability
+* Improved Internet connection logic and connection recovery
+* Fixed a bug that caused Cam Plus Lite Events to not play due to Error 3001
+* Fixed an issue that caused Event Videos to lose frames
+* Fixed a bug that affected Internet connection when connected to open Wi-Fi
+* Due to the security improvement on this firmware, you will need to go through the factory reset process for your camera if you go back to firmware 4.49.1.47 or below
+4/3/23 - Note: We're slowing down the gradual release for this firmware while we check on some reported issues. The gradual release is expected to take longer than initially expected to accommodate this caution.
+3/22/23 - Note: We are doing a gradual release for this firmware over two weeks. If you do not have this firmware version yet, don't worry! You'll receive it later.
 ## 4.49.3.2864 (November 2, 2022) - RECALLED
 * Improved Internet connection code
 * Improved live stream connectivity

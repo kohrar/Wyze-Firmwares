@@ -8,6 +8,10 @@
 * The webcam video, speaker, and mic all function properly.
 * Mic audio may be low. We suggest you set your audio level to medium, or use your own microphone and speaker.
 
+## 4.9.9.1851 (February 2, 2023)
+* Improved the Event Video upload success rate
+* Fixed a bug that affected camera connection recovery after a cloud outage
+
 ## 4.9.9.1574 (December 7, 2022)
 * Fixed a bug that affected camera connection on Wi-Fi with a long password
 * Fixed a bug that prevented AI detection settings from syncing

@@ -1,4 +1,10 @@
 # Wyze Cam Outdoor v2 Firmware
+## 4.48.4.418 (January 4, 2023)
+* Fixed a bug that prevented the rotate image 180 degrees setting from sticking
+## 4.48.4.394 (December 7, 2022)
+* Added support for microSD cards formatted in exFAT
+* Bug fixes
+12/8/22 Note: This firmware is halted while we look into reports of the rotate 180 degrees setting needing to be reapplied every time the user enters the live stream page.
 ## 4.17.4.394 (December 7, 2022)
 * Added support for exFAT microSD card formats
 * Bug fixes

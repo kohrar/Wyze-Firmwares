@@ -1,4 +1,22 @@
 # Wyze Cam v3 Firmware
+## 4.36.10.4054 (March 22, 2023)
+* Improved Event Video recording stability
+* Improved Internet connection logic and connection recovery
+* Fixed a bug that caused Cam Plus Lite Events to not play due to Error 3001
+* Fixed an issue that caused Event Videos to lose frames
+* Fixed a bug that affected Internet connection when connected to open Wi-Fi
+* Due to the security improvement on this firmware, you will need to go through the factory reset process for your camera if you go back to firmware 4.36.9.139 or below
+4/3/23 - Note: We're slowing down the gradual release for this firmware while we check on some reported issues. The gradual release is expected to take longer than initially expected to accommodate this caution.
+3/22/23 - Note: We are doing a gradual release for this firmware over two weeks. If you do not have this firmware version yet, don't worry! You'll receive it later.
+
+## 4.36.10.3406 (December 15, 2022)
+* Improved Event Video recording stability
+* Fixed bugs that caused Events to fail uploading to the cloud
+* Fixed a bug that prevented devices from reconnecting to IoT
+* Due to the security improvement on this firmware, you will need to go through the factory reset process for your camera if you go back to firmware 4.36.9.139 or below
+12/16/22 Note: Now all Wyze Cam v3s using 4.36.10.2163 or higher firmware will have access to this release. Thanks for your patience!
+12/15/22 Note: This firmware is only released to cameras using the 4.36.10.2864 firmware to fix bugs introduced in that version. Cameras not using that version will not have this update available to them. Cameras using version 4.36.10.2700 will receive the firmware as a manual push from our side.
+
 ## 4.36.10.2864 (November 2, 2022) - RECALLED
 * Improved Internet connection code
 * Improved live stream connectivity
