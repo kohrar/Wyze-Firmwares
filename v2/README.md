@@ -8,6 +8,19 @@
 * The webcam video, speaker, and mic all function properly.
 * Mic audio may be low. We suggest you set your audio level to medium, or use your own microphone and speaker.
 
+
+
+## 4.9.9.3006 (January 16, 2024)
+* Security improvements
+* You need to update the app to 2.48 to receive this firmware update
+* App versions lower than 2.48 can’t connect to this firmware due to the app and firmware security improvements
+## 4.9.9.2847 (November 6, 2023)
+* Security improvements
+## 4.9.9.2351 (September 14, 2023)
+* Fixed an Error Code 3001 bug for Cam Plus Lite Events
+* Fixed a bug that affected camera connection recovery after a cloud outage
+9/14/23 - Note: This is a gradual release. If you don't see the update today, you should see it later this month.
+
 ## 4.9.9.1851 (February 2, 2023)
 * Improved the Event Video upload success rate
 * Fixed a bug that affected camera connection recovery after a cloud outage
