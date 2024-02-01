@@ -1,4 +1,17 @@
 # Wyze Cam v3 Pro Firmware
+## 4.58.11.8391 (January 16, 2024)
+* Security improvements
+* You need to update the app to 2.48 to receive this firmware update
+* App versions lower than 2.48 can’t connect to this firmware due to the app and firmware security improvements
+
+## 4.58.11.7357 (November 8, 2023)
+* Reduced the likelihood of update failure from the previous version
+* Security improvements
+
+## 4.58.11.7214 (November 1, 2023)
+* Security improvements
+11/2/23 - Note: We are pausing this release while we check on some reported issues.
+
 ## 4.58.11.4679 (June 8, 2023)
 * Improved Internet connection
 * Improved the IoT connection success rate
