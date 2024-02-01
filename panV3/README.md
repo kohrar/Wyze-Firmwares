@@ -1,4 +1,15 @@
 # Wyze Cam Pan v3 Firmware
+## 4.50.4.8409 (January 23, 2024)
+* Security improvements
+* You need to update the app to 2.48 to receive this firmware update
+* App versions lower than 2.48 can't connect to this firmware due to the app and firmware security improvements
+Note: This is a gradual release, releasing to 20% on January 23.
+## 4.50.4.7252 (November 2, 2023)
+* Security improvements
+## 4.50.4.4767 (August 17, 2023)
+* Fixed an issue that caused failure when using Continuous Recording to a microSD card
+* Fixed a bug that prevented detection and recording of Events
+* Fixed a position reset failure bug that occurred after the camera was turned on
 
 ## 4.50.3.4240 (April 24, 2023)
 * Improved Wi-Fi connection stability
