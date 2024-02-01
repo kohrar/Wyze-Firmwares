@@ -1,4 +1,13 @@
 # Wyze Cam Pan v2 Firmware
+
+## 4.49.11.8391 (January 16, 2024)
+* Security improvements
+* You need to update the app to 2.48 to receive this firmware update
+* App versions lower than 2.48 can’t connect to this firmware due to the app and firmware security improvements
+## 4.49.11.7095 (October 31, 2023)
+* Security improvements
+## 4.49.3.7177 (October 31, 2023)
+* Reduced the likelihood of update failure from the previous version
 ## 4.49.3.4054 (March 22, 2023)
 * Improved Event Video recording stability
 * Improved Internet connection logic and connection recovery
