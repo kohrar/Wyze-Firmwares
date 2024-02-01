@@ -1,4 +1,41 @@
 # Wyze Cam v3 Firmware
+
+## 4.36.11.8391 (January 16, 2024)
+* Security improvements
+* You need to update the app to 2.48 to receive this firmware update
+* App versions lower than 2.48 can’t connect to this firmware due to the app and firmware security improvements
+
+## 4.36.11.7095 (October 25, 2023)
+* Fixed a bug that prevented saving the Detection Zone
+
+## 4.36.11.7071 (October 22, 2023)
+* Security improvements
+
+## 4.36.11.5859 (August 30, 2023)
+* Improved IoT connection
+* Improved log collection for IoT disconnections
+* Security improvements
+* Bug fixes
+10/13/23 - Note: We are pausing this release while we check on some reported issues.
+8/30/23 - Note: This is a gradual release. If you don't receive it immediately, we expect you to receive it over the next month. Thank you!
+
+## 4.36.11.4679 (July 13, 2023)
+* Improved Internet connection
+* Improved the Event Video replay success rate
+* Fixed a bug that caused Playback video to skip the first minute every hour
+* Fixed a bug that caused Playback video to not be smooth while playing
+* Fixed a bug that prevented viewing Playback video
+* Fixed a bug that impacted WPA2 and WPA3 mixed network connections
+* Bug fixes
+
+8/4/23 - Note: We analyzed the metrics and found a failure rate higher than what we aim for. We're going to work on a new build and release that. If any of the bug fixes in this update are important to you, please consider flashing the firmware using the link on the version number here.
+7/13/23 - Note: This is a gradual release. If you don't see the update yet, you'll receive it in the upcoming weeks. Thanks for your attention!
+
+## 4.36.10.7146 (October 30, 2023)
+* Reduced the likelihood of update failure from the previous version
+* This firmware will only be available to devices with 4.36.10.4054 firmware
+
+
 ## 4.36.10.4054 (March 22, 2023)
 * Improved Event Video recording stability
 * Improved Internet connection logic and connection recovery
