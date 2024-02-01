@@ -1,4 +1,6 @@
 # Wyze Cam Outdoor Firmware
+## 4.17.4.427 (November 6, 2023)
+* Security improvements
 ## 4.17.4.418 (January 4, 2023)
 * Fixed a bug that prevented the rotate image 180 degrees setting from sticking
 ## 4.17.4.394 (December 7, 2022)
